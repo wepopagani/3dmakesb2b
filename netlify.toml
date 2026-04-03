@@ -1,0 +1,3 @@
+# Sito statico: nessun build. La landing è servita da /b2b/ (vedi cartella b2b/)
+[build]
+  publish = "."
